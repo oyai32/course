@@ -1,0 +1,225 @@
+body {
+	color: #303A4F;
+	width: 712px;
+}
+
+.title-back {
+	height: 10px;
+	background: #2777AD;
+}
+
+h3 {
+	margin: -16px 0px 0px 10px;
+	padding: 0px 10px;
+	background: white;
+	width: 100px;
+	text-align: center;
+	color: #303A4F;
+}
+
+ul,dd {
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+}
+
+.lie-top {
+	margin-top: 20px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+	height: 30px;
+	border-bottom: 3px double #ccc;
+}
+
+.lie {
+	text-align: left;
+	font-size: 14px;
+	height: 17px;
+	padding: 12px 0px;
+	border-bottom: 1px dashed #ccc;
+}
+
+.lie-top li,.lie li {
+	text-align: center;
+	float: left;
+}
+
+.lie img {
+	width: 20px;
+	margin-top: -5px;
+	padding: 0px 5px;
+	vertical-align: middle;
+}
+
+.uptext {
+	width: 300px;
+	margin: 40px auto;
+}
+
+.uptext button {
+	margin-left: 180px;
+	margin-top: 20px;
+}
+
+.liuyan {
+	border-top: 4px solid #ccc;
+	margin-top: 20px;
+	height: 300px;
+	width: 100%;
+	padding: 10px 0px 0px 10px;
+}
+
+.liuyan input {
+	width: 90%;
+}
+
+.liuyan textarea {
+	width: 90%;
+	height: 100px;
+}
+
+.liuyan button {
+	margin: 0px 48%;
+	width: 50px;
+}
+
+#top-title {
+	border: 1px solid #ccc;
+	padding: 10px 10px;
+	font-size: 16px;
+}
+
+#top-title font,.huifu font {
+	font-size: 13px;
+	float: right;
+}
+
+.huifu {
+	font-size: 14px;
+	color: gray;
+	margin-top: 10px;
+	padding: 10px;
+	margin-top: 10px;
+}
+.over{
+	margin-top:10px;
+	border: 1px solid #ccc;
+	height:260px;
+	overflow: auto;
+}
+
+.huifu li {
+	border-bottom: 1px dashed #eee;
+	padding: 5px 0px;
+}
+
+.huifu-text {
+	line-height: 20px;
+	color: #303A4F;
+}
+
+.huifu span {
+	color: #2777AD;
+}
+
+.xhuifu {
+	padding: 5px 0px;
+	background: #eee;
+}
+
+.topic-lie {
+	width: 200px;
+	height: 100px;
+	margin: 50px auto;
+}
+
+.test {
+	border: 1px solid #ccc;
+}
+
+.test-top {
+	padding: 30px;
+	border-bottom: 1px solid #ccc;
+	text-align: center;
+}
+
+.test-top span {
+	display: none;
+	color: red;
+	font-size: 30px;
+	float: right;
+	font-weight: bold;
+}
+
+.test-bottom {
+	font-weight: bold;
+	padding: 30px;
+	text-align: center;
+	padding: 30px;
+}
+
+.worry {
+	display: none;
+	float: right;
+	margin: -10px 20px 0px 0px;
+	color: red;
+	font-weight: bold;
+	float: right;
+}
+
+.right {
+	display: none;
+	float: right;
+	margin: -20px 20px 0px 0px;
+	color: green;
+	font-weight: bold;
+}
+
+.test-content {
+	border-bottom: 1px dashed #ccc;
+	margin: 0px;
+	padding: 10px;
+}
+
+.test-content dd {
+	font-size: 14px;
+}
+
+.test-content dt {
+	margin-bottom: 10px;
+}
+
+.ninput {
+	width: 500px;
+}
+
+.add-topic {
+	margin: 30px auto;
+}
+
+.add-topic td {
+	padding: 10px 0px;
+}
+
+#tishi {
+	color: red;
+	font-size: 14px;
+	text-align: center;
+}
+
+.tjhomework {
+	line-height: 40px;
+	width: 300px;
+	margin: 30px 250px;
+}
+
+.km {
+	width: 500px;
+	margin: 0px 120px;
+}
+
+.wu {
+	text-align: center;
+	padding: 50px 0px;
+}
