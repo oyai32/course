@@ -73,6 +73,5 @@ localhost:8080/course/backindex.jsp
 >admin/admin
 
 ### 论文地址
-开题报告：https://wenku.baidu.com/view/16e831cbf32d2af90242a8956bec0975f465a48d.html 
-
-毕业论文：https://wenku.baidu.com/view/a0ef0448a2116c175f0e7cd184254b35eefd1aab.html
+开题报告：https://pan.baidu.com/s/1DqXVvKgSf_kf1V2kWKE6SA   (提取码：nvay) 
+毕业论文：https://pan.baidu.com/s/1x8ESJH2qWFep9XLU4ezaug   (提取码：9a0z)
